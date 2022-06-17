@@ -21,4 +21,10 @@ Qualified For Grand Finale
 * The same Hardware device for showing outputs
     * The ratings of farm produce,
     * Price for farmers,
-    * Output should be integer and string type, 4 or 5 values according to hardware device scrren size.
+    * Output should be integer and string type, 4 or 5 values according to hardware device scrren size.  
+ #### Few useful links for teammates::
+ * [Blockchain Technology for Agriculture](https://www.frontiersin.org/articles/10.3389/fbloc.2020.00007/full)
+ * [Why blockchain technology can be the game-changer for bolstering farming in India](https://yourstory.com/2021/07/blockchain-technology-bolstering-farming-india/amp)
+ * [10 USE CASES](https://merehead.com/blog/how-to-use-blockchain-in-agriculture-10-use-cases/)  
+ Going through the links will help us gain knowledge in the domain we are working on,  
+   Everyone's intuitions and persepective matters and it will help us to deliver the best product.
