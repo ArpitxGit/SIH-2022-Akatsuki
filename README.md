@@ -22,9 +22,16 @@ Qualified For Grand Finale
     * The ratings of farm produce,
     * Price for farmers,
     * Output should be integer and string type, 4 or 5 values according to hardware device scrren size.  
- #### Few useful links for teammates::
- * [Blockchain Technology for Agriculture](https://www.frontiersin.org/articles/10.3389/fbloc.2020.00007/full)
- * [Why blockchain technology can be the game-changer for bolstering farming in India](https://yourstory.com/2021/07/blockchain-technology-bolstering-farming-india/amp)
- * [10 USE CASES](https://merehead.com/blog/how-to-use-blockchain-in-agriculture-10-use-cases/)  
- Going through the links will help us gain knowledge in the domain we are working on,  
-   Everyone's intuitions and persepective matters and it will help us to deliver the best product.
+ #### QnA by teammates::  
+ * Sampriti Patel  
+ [How and what kind of problems farmers face with respect to pricing and what kind of devices can farmers use in this next level tech generation ?
+](https://docs.google.com/document/d/123wA7g9R8RsFLVohvjsJJVWXJ74bRs0KN9AjP_5femE/edit)
+* N Tun Sian Zai  
+[How can we make the institute and farmers both happy with our project? like what should be the ideal way of dealing things in the world right now w.r.t to farmers, farm produce, food institute.
+](https://docs.google.com/document/d/1yPa4MXslBEtdFaWXcQS_M_tRpsNJH6dnWbCWEkG5m2c/edit)  
+* Priyam Raj  
+[Current situation of transparency in agricultural production system and assurance on raw material quality for food industry](https://docs.google.com/document/d/1X0pJ6YMCzGpgyTgMzMCWJ4tbqfT98_bBOglucg5f-fM/edit)  
+* Kanishk Vats  
+[What is NIFTEM Thanjavur ,Ministry of Food Processing Industries (MoFPI) and it's working?](https://docs.google.com/document/d/1c8OvaAOrtEoDHXVLgQ5IZGXdgKFnY2eijjnHVslPNi8/edit?usp=sharing)  
+* Mohit Bakshi  
+[What are farm produces and how the institutes manage the whole cycle from production to distribution, the usual way?](https://drive.google.com/file/d/10SsNiy9CYQ2Dsjks9b7sXDpnBgdKhJqJ/view?usp=sharing)
