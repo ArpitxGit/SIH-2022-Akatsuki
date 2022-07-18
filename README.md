@@ -35,3 +35,7 @@ Qualified For Grand Finale
 [What is NIFTEM Thanjavur ,Ministry of Food Processing Industries (MoFPI) and it's working?](https://docs.google.com/document/d/1c8OvaAOrtEoDHXVLgQ5IZGXdgKFnY2eijjnHVslPNi8/edit?usp=sharing)  
 * Mohit Bakshi  
 [What are farm produces and how the institutes manage the whole cycle from production to distribution, the usual way?](https://drive.google.com/file/d/10SsNiy9CYQ2Dsjks9b7sXDpnBgdKhJqJ/view?usp=sharing)
+
+
+** Refrence:
+[1](https://www.qualityassurancemag.com/article/todays-packaging--and-labeling-august--2018/)
