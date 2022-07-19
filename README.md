@@ -25,7 +25,8 @@ Qualified For Grand Finale
  #### QnA by teammates::  
  * Sampriti Patel  
  [How and what kind of problems farmers face with respect to pricing and what kind of devices can farmers use in this next level tech generation ?
-](https://docs.google.com/document/d/123wA7g9R8RsFLVohvjsJJVWXJ74bRs0KN9AjP_5femE/edit)
+](https://docs.google.com/document/d/123wA7g9R8RsFLVohvjsJJVWXJ74bRs0KN9AjP_5femE/edit)  
+[How do farmers price their produce ?](https://docs.google.com/document/d/1c7i6HCdDCzbxvfxCjnmRkzkp9Tc6qy9D9247tLBqcbU/edit)
 * N Tun Sian Zai  
 [How can we make the institute and farmers both happy with our project? like what should be the ideal way of dealing things in the world right now w.r.t to farmers, farm produce, food institute.
 ](https://docs.google.com/document/d/1yPa4MXslBEtdFaWXcQS_M_tRpsNJH6dnWbCWEkG5m2c/edit)  
