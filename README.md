@@ -12,16 +12,25 @@ Qualified For Grand Finale
 ##### Organization:: 	NIFTEM Thanjavur ,Ministry of Food Processing Industries (MoFPI)  
 
 ### Submitted Idea:: [PDF](https://sih.gov.in/uploads/template/SMARTINDIAHACKATHON202220220515204519.pdf)  
+
+### Submission in Round 2::![Round2Submission](https://user-images.githubusercontent.com/75042859/182963478-f583a721-330c-4ff6-96f9-5d423b8c632b.png)
+
 **Summarising the solution idea::**  
-* Hardware device for scanning barcodes/IDs
-    *  mapped with farmers, scanned by Food Industry(for quality assurance),
-    *  mapped with Food Industry, scanned by farmers(for pricing).  
+* Hardware devices: Sensors for ex: RFID,EPCIS, Barcodes 
+    * Measures different parameters for different farm produces
+    * Temperature, Relative Humidity, PH, Color, etc depends on type of farm produce
 * Customized **Blockchain** for traceability of farm produce and prices
-* Enabling trust on the quality assurance **using endorsement in form of rating by food industry**, implementation should be done in application.
-* The same Hardware device for showing outputs
-    * The ratings of farm produce,
-    * Price for farmers,
-    * Output should be integer and string type, 4 or 5 values according to hardware device scrren size.  
+    * Should be cost-effective and eco-friendly
+    * Different categories of farm produces with different numbers of intermediatories should be implemented in smart contract
+    * Issue raiser should be implemented on blockchain for tamperproof data.
+    * Overall Background of all types of Farm Produce.
+* Enabling trust on the quality assurance **using endorsement in form of rating by food industry**, implementation should be done in application. 
+
+#### Work to be done::
+* Sampriti Patel: Categorise different types of farm produces.
+* Kanishk Vats: Find out the number of parties involved in different kind of farm produces.
+* Mohit Bakshi, Priyam Raj, N Tun Sian Zai: Work on Hardware device and map different parameters that needs to be measured for different farm produces.  
+
  #### QnA by teammates::  
  * Sampriti Patel  
  [How and what kind of problems farmers face with respect to pricing and what kind of devices can farmers use in this next level tech generation ?
@@ -44,7 +53,5 @@ Qualified For Grand Finale
 [3 The Cycle](https://industrialoutlook.in/process-industry/food-industry-one-of-the-emerging-market-in-india/)  
 [4](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1780271)
 
-Round 2: [Submitted File](https://excalidraw.com/#json=3kmo9X3qj_qIFVms78fcx,CMvbKHz2h-v6Zu2mqIDsUw)
-
-# Qualified Second Round as well.
-Proceed to making prtotype, lets rock!
+# Finale:
+24th-30th of August.
