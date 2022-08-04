@@ -29,7 +29,8 @@ Qualified For Grand Finale
 #### Work to be done::
 * Sampriti Patel: Categorise different types of farm produces.
 * Kanishk Vats: Find out the number of parties involved in different kind of farm produces.
-* Mohit Bakshi, Priyam Raj, N Tun Sian Zai: Work on Hardware device and map different parameters that needs to be measured for different farm produces.  
+* Mohit Bakshi, Priyam Raj, N Tun Sian Zai: Work on Hardware device and map different parameters that needs to be measured for different farm produces.
+* Arpit Kumar: Figure out and optimise the number of transactions that will be made in the whole process and by whom. 
 
  #### QnA by teammates::  
  * Sampriti Patel  
