@@ -16,7 +16,7 @@ Qualified For Grand Finale
 * Hardware device for scanning barcodes/IDs
     *  mapped with farmers, scanned by Food Industry(for quality assurance),
     *  mapped with Food Industry, scanned by farmers(for pricing).  
-* Customized Blockchain for traceability of farm produce and prices **using Hyperledger Fabric and Amazon Managed Blockchain**
+* Customized **Blockchain** for traceability of farm produce and prices
 * Enabling trust on the quality assurance **using endorsement in form of rating by food industry**, implementation should be done in application.
 * The same Hardware device for showing outputs
     * The ratings of farm produce,
