@@ -18,7 +18,7 @@ Qualified For Grand Finale
 **Summarising the solution idea::**  
 * Hardware devices: Sensors for ex: RFID,EPCIS, Barcodes 
     * Measures different parameters for different farm produces
-    * Temperature, Relative Humidity, PH, Color, etc depends on type of farm produce
+    * Temperature, Relative Humidity, PH, Color, etc depends on type of farm produce  
 * Customized **Blockchain** for traceability of farm produce and prices
     * Should be cost-effective and eco-friendly
     * Different categories of farm produces with different numbers of intermediatories should be implemented in smart contract
@@ -26,8 +26,9 @@ Qualified For Grand Finale
     * Overall Background of all types of Farm Produce.
 * Enabling trust on the quality assurance **using endorsement in form of rating by food industry**, implementation should be done in application. 
 
-#### Work to be done::
-* Sampriti Patel: Categorise different types of farm produces.
+#### Work done::
+* Sampriti Patel: Categorise different types of farm produces.  
+[Farm Produces and their Respective Production Cysle](https://docs.google.com/document/d/19TinDJ_Edpr_6Akh_lQyTDcUlp4p8jdApLostQzoGyg/edit)  
 * Kanishk Vats: Find out the number of parties involved in different kind of farm produces.
 * Mohit Bakshi, Priyam Raj, N Tun Sian Zai: Work on Hardware device and map different parameters that needs to be measured for different farm produces.
 * Arpit Kumar: Figure out and optimise the number of transactions that will be made in the whole process and by whom. 
