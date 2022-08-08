@@ -16,7 +16,7 @@ Qualified For Grand Finale
 ### Submission in Round 2::![Round2Submission](https://user-images.githubusercontent.com/75042859/182963478-f583a721-330c-4ff6-96f9-5d423b8c632b.png)
 
 **Summarising the solution idea::**  
-* Hardware devices: Sensors for ex: RFID,EPCIS, Barcodes 
+* Hardware devices: Sensors, RFID, EPCIS, Barcodes 
     * Measures different parameters for different farm produces
     * Temperature, Relative Humidity, PH, Color, etc depends on type of farm produce  
 * Customized **Blockchain** for traceability of farm produce and prices
@@ -30,7 +30,18 @@ Qualified For Grand Finale
 * Sampriti Patel: Categorise different types of farm produces.  
 [Farm Produces and their Respective Production Cysle](https://docs.google.com/document/d/19TinDJ_Edpr_6Akh_lQyTDcUlp4p8jdApLostQzoGyg/edit)  
 * Kanishk Vats: Find out the number of parties involved in different kind of farm produces.
-* Mohit Bakshi, Priyam Raj, N Tun Sian Zai: Work on Hardware device and map different parameters that needs to be measured for different farm produces.
+* Mohit Bakshi, Priyam Raj, N Tun Sian Zai: Work on Hardware device and map different parameters that needs to be measured for different farm produces.  
+   * ARDUINO UNO(4) - FOR SENSING THE  REQUIRED PARAMETERS
+   * FC-28(1) - FOR SENSING MOISTURE
+   * GENERIC JUMPER WIRE(>200) - CONNECTING THE HARDWARE
+   * SOLDERLESS BREADBOARD- FULL SIZE(4) - ASSEMBLING
+   * ADAFRUIT RGB BACKLIGHT LCD 16X2(2) - DISPLAY
+   * pH SENSOR 4502C(1) - FOR PH SENSING
+   * ELEGOO UNO R3 BOARD ATmega328P ATmega16u2 with USB cable(1) - FOR TEMPERATURE SENSING 
+   * RESISTOR 10K OHM(1) - FOR TEMP SENSING
+   * ELEGOO THERMISTOR(1) - FOR TEMP SENSING
+   * ELEGOO ROTARY POTENTIOMETER LINEAR 10K OHM(1) - FOR TEMP SENSING
+   * TCH 230 COLOR SENSOR(1) - FOR COLOR SENSING
 * Arpit Kumar: Figure out and optimise the number of transactions that will be made in the whole process and by whom. 
 
  #### QnA by teammates::  
