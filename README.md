@@ -37,6 +37,8 @@ For sustainable development to be achieved, it is crucial to harmonize three cor
     * Overall Background of all types of Farm Produce.
 * Enabling trust on the quality assurance **using endorsement in form of rating by food industry**, implementation should be done in application. 
 
+*Smart contracts are complex instruments that offer the possibility to have self-enforcing contracts including transparent, tamper-proof, and immutable information.
+
 #### Work done::
 * Sampriti Patel: Categorise different types of farm produces.  
 [Farm Produces and their Respective Production Cysle](https://docs.google.com/document/d/19TinDJ_Edpr_6Akh_lQyTDcUlp4p8jdApLostQzoGyg/edit)  
