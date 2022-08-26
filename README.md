@@ -16,6 +16,12 @@ Qualified For Grand Finale
   * Enabling trust on the quality of farm produce and assurance on raw material quality resulting better pricing for farmers,  
   * A system to validate on a real time basis.  
 
+### Consider Sustainable Development Goals:  
+For sustainable development to be achieved, it is crucial to harmonize three core elements:  
+ * economic growth,  
+ * social inclusion and  
+ * environmental protection.
+
 ### Submitted Idea:: [PDF](https://sih.gov.in/uploads/template/SMARTINDIAHACKATHON202220220515204519.pdf)  
 
 ### Submission in Round 2::![Round2Submission](https://user-images.githubusercontent.com/75042859/182963478-f583a721-330c-4ff6-96f9-5d423b8c632b.png)
