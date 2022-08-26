@@ -17,9 +17,9 @@ Qualified For Grand Finale
 
 
 **Breaking down the problem statements::**  
-  Using Blockchain for tagging farm produces,  
-  Enabling trust on the quality of farm produce and assurance on raw material quality resulting better pricing for farmers,  
-  A system to validate issues on a real time basis.  
+  * Using Blockchain for tagging farm produces,  
+  * Enabling trust on the quality of farm produce and assurance on raw material quality resulting better pricing for farmers,  
+  * A system to validate issues on a real time basis.  
   
 **Summarising the solution idea::**  
 * Hardware devices: Sensors, RFID, EPCIS, Barcodes 
