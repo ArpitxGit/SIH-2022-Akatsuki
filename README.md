@@ -15,6 +15,12 @@ Qualified For Grand Finale
 
 ### Submission in Round 2::![Round2Submission](https://user-images.githubusercontent.com/75042859/182963478-f583a721-330c-4ff6-96f9-5d423b8c632b.png)
 
+
+**Breaking down the problem statements::**  
+  Using Blockchain for tagging farm produces,  
+  Enabling trust on the quality of farm produce and assurance on raw material quality resulting better pricing for farmers,  
+  A system to validate issues on a real time basis.  
+  
 **Summarising the solution idea::**  
 * Hardware devices: Sensors, RFID, EPCIS, Barcodes 
     * Measures different parameters for different farm produces
@@ -67,4 +73,4 @@ Qualified For Grand Finale
 [4](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1780271)
 
 # Finale:
-24th-30th of August.
+25th-29th of August.
