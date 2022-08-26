@@ -11,15 +11,14 @@ Qualified For Grand Finale
 ##### Technology Bucket::	Blockchain & Cybersecurity  
 ##### Organization:: 	NIFTEM Thanjavur ,Ministry of Food Processing Industries (MoFPI)  
 
-### Submitted Idea:: [PDF](https://sih.gov.in/uploads/template/SMARTINDIAHACKATHON202220220515204519.pdf)  
-
-### Submission in Round 2::![Round2Submission](https://user-images.githubusercontent.com/75042859/182963478-f583a721-330c-4ff6-96f9-5d423b8c632b.png)
-
-
 **Breaking down the problem statements::**  
   * Using Blockchain for tagging farm produces,  
   * Enabling trust on the quality of farm produce and assurance on raw material quality resulting better pricing for farmers,  
   * A system to validate issues on a real time basis.  
+
+### Submitted Idea:: [PDF](https://sih.gov.in/uploads/template/SMARTINDIAHACKATHON202220220515204519.pdf)  
+
+### Submission in Round 2::![Round2Submission](https://user-images.githubusercontent.com/75042859/182963478-f583a721-330c-4ff6-96f9-5d423b8c632b.png)
   
 **Summarising the solution idea::**  
 * Hardware devices: Sensors, RFID, EPCIS, Barcodes 
