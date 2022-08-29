@@ -81,3 +81,8 @@ For sustainable development to be achieved, it is crucial to harmonize three cor
 
 # Finale:
 25th-29th of August.
+
+#### [Finale Presentation](https://docs.google.com/presentation/d/14MsdQNRcq2AsKx2h4ErbBjS-QLuP2tS6bEZG15briu8/edit?usp=sharing)  
+#### Finale Flow Of Work
+![SIH2022Finale](https://user-images.githubusercontent.com/75042859/187181764-cbf1259d-90b8-4933-8873-71b78b2b7abb.png)
+
