@@ -1,0 +1,128 @@
+
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<title>Knowing you better</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" href="css/style3.css">
+
+</head>
+
+<body>
+	<section class="ftco-section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-md-6 text-center mb-5">
+					<h2 class="heading-section">Hi, <%= farmer.name %> </h2>
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-md-12">
+					<div class="wrapper">
+						<div class="row mb-5">
+							<div class="col-md-3">
+								<div class="dbox w-100 text-center">
+									<div class="icon d-flex align-items-center justify-content-center">
+										<span class="fa fa-map-marker"></span>
+									</div>
+									<div class="text">
+										<p><span>safeTracker's Address:</span> IIITG Boys Hostel</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="dbox w-100 text-center">
+									<div class="icon d-flex align-items-center justify-content-center">
+										<span class="fa fa-phone"></span>
+									</div>
+									<div class="text">
+										<p><span>Phone:</span> <a href="#">+91 8757649090</a></p>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="dbox w-100 text-center">
+									<div class="icon d-flex align-items-center justify-content-center">
+										<span class="fa fa-paper-plane"></span>
+									</div>
+									<div class="text">
+										<p><span>Our Email:</span> <a
+												href="#">monkHop@gmail.com</a>
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="dbox w-100 text-center">
+									<div class="icon d-flex align-items-center justify-content-center">
+										<span class="fa fa-globe"></span>
+									</div>
+									<div class="text">
+										<p><span>Website</span> <a href="#">monkhop.netlify.com</a></p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div style="box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;" class="row no-gutters">
+							<div class="col-md-7">
+								<div class="contact-wrap w-100 p-md-5 p-4">
+									<h3 class="mb-4">Add Info About Yourself</h3>
+									
+									<form action="/farmerinfo/<%= farmer_id %>" method="POST" enctype="multipart/form-data" id="contactForm" name="contactForm" class="contactForm">
+										<div class="row">
+											<div class="col-md-12">
+												<div class="form-group">
+													<label class="label" for="name">Which State do you reside in?</label>
+													<input type="text" class="form-control" name="farmerstate" id="farmerstate"
+														placeholder="State">
+												</div>
+											</div>
+											<div class="col-md-12">
+												<div class="form-group">
+													<label class="label" for="">which crop do you specialize in?</label>
+													<textarea type="text" class="form-control" cols="30" rows="4" name="cropsinfo" id="cropsinfo"
+														placeholder="type of crops"></textarea>
+												</div>
+											</div>
+											<div class="col-md-12">
+												<div class="form-group">
+													<label class="label" for="subject">Upload your profile image</label>
+													<input type="file" class="form-control" name="proimage" id="proimage"
+														placeholder="profile image" required>
+												</div>
+											</div>
+											
+											<div class="col-md-12">
+												<div class="form-group">
+													<input type="submit" value="submit" class="btn btn-primary">
+													<div class="submitting"></div>
+												</div>
+											</div>
+										</div>
+									</form>
+								</div>
+							</div>
+							<div class="col-md-5 d-flex align-items-stretch">
+								<div class="info-wrap w-100 p-5 img" style="background-image: url(images/img.jpg);">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	
+
+</body>
+
+</html>

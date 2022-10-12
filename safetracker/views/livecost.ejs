@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  	<title>live cost for - <%= ecrop %></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	
+	<link rel="stylesheet" href="css/style4.css">
+	<link rel="stylesheet" href="css/templatemo-style.css" />
+
+	</head>
+	<body>
+
+
+	<section class="ftco-section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-md-6 text-center mb-5">
+					<h2 class="heading-section">Live cost For exported crop = <%= ecrop %></h2>
+				</div>
+				<div style="margin-bottom: 4px;margin-top: 50px;" class="white-button">
+					<a href="/farmer/<%= ecrop %>/livecost">Reload Fresh Data</a>
+				  </div>
+				  <div style="margin-bottom: 4px;margin-top: 50px;" class="white-button">
+					<a href="/safetracker.ejs">Go Back</a>
+				  </div>
+                  
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="table-wrap">
+						<table class="table table-striped">
+						  <thead>
+						    <tr>
+						      <th>Name of the crop</th>
+						      <th>Previous expected Cost</th>
+						      <th>Previous updation time</th>
+
+						      <th>Current expected Cost</th>
+						      <th>Current updation time </th>
+
+							  
+						      <th>Deviation</th>
+						      <th>Status</th>
+							  <th>view fluctuation chart</th>
+						    </tr>
+						  </thead>
+						  <tbody>
+						    <tr>
+						      <th scope="row"><%= ecrop %></th>
+						      <td><%= precost %> (rs/kg)</td>
+						      <td> <%= pretime %> </td>
+							  <td> <%= currcost %>(rs/kg)</td>
+						      <td> <%= posttime %> </td>
+							  
+						      <td> <%= (currcost) - (precost) %> </td>
+						      <td>
+
+								<% if((currcost) >=80 && (currcost) <=100 ){ %>
+									<a href="#" id="refernce1"class=" btn btn-success">safe</a>
+                  				 <% } else { %>
+									<a href="#" class="btn btn-danger">danger</a>
+								 <% } %>
+								
+							</td>
+							<td><button><a href="#">Click</a></button></td>
+						    </tr>
+							
+
+						    
+
+						    <!-- <tr>
+						      <th scope="row">1001</th>
+						      <td>Mark Otto</td>
+						      <td>Japan</td>
+						      <td>$3000</td>
+						      <td>$1200</td>
+						      <td><a href="#" class="btn btn-danger">danger</a></td>
+						    </tr> -->
+
+						    
+
+						    
+						  </tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+    
+    
+    <script>
+        
+
+    </script>
+
+	
+
+  
+    <!-- <script src="js/livedata.js"></script> -->
+	</body>
+</html>
+

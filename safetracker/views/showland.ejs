@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> <%= farmer.name %> 's crop </title>
+    <link rel="stylesheet" href="css/showpage.css">
+    <link rel="stylesheet" href="css/templatemo-style.css" />
+    <link rel="stylesheet" href="css/owl.css" />
+    <link rel="stylesheet" href="css/lightbox.css" />
+</head>
+<body>
+    
+  <% var k = 0; %>
+
+  <% for(var j=0; j < farmer.ecropdata.length; j++) { %>
+ 
+  <% if(farmer.ecropdata[j].ecname.trim() === ecropname.trim()){ %> 
+      
+    <% k=j %>
+
+    <% } %>
+ 
+ 
+ <%  } %>
+
+ 
+
+
+    <section id="kanishk">
+        <div class="box">
+            <div class="inner_box">
+                <div>
+                    <p class="tripname">
+                      <em><%= farmer.ecropdata[k].ecname %></em>
+                    </p>
+                </div>
+                <p class="outlier">
+                    Place of cultivation -- <%= farmer.ecropdata[k].placec %>
+                </p>
+                <p class="outlier">
+                  Start date of cultivation -- <%= farmer.ecropdata[k].start %>
+              </p><p class="outlier">
+                End date of cultivation -- <%= farmer.ecropdata[k].end %>
+            </p><p class="outlier">
+              Place to transport -- <%= farmer.ecropdata[k].placet %>
+          </p><p class="outlier">
+            Additional info -- <%= farmer.ecropdata[k].extrainfo %>
+        </p>
+            </div>
+            <div style="float: right;margin-bottom: 4px;margin-top: 50px;" class="white-button">
+              <a href="/farmer/<%= farmer._id %>/<%= farmer.ecropdata[k].ecname %>/<%= k %>/livedata">Track Data</a>
+            </div> 
+            
+        </div>
+         
+        <div class="img">
+            
+<div class="slideshow-container">
+  <div style="float: right;margin-bottom: 4px;" class="white-button">
+    <a href="/farmer/<%= farmer._id %>">Go Back</a>
+  </div>
+  
+
+  
+  
+
+<% for(var i=0; i < farmer.ecropdata[k].img.length; i++) { %> 
+
+    <!-- Full-width images with number and caption text -->
+    <div class="mySlides fade">
+      <div class="numbertext"><%= i+1 %> </div>
+      
+      <img src="data:image/<%=farmer.ecropdata[k].img[i].contentType%>;base64,
+      <%=farmer.ecropdata[k].img[i].data.toString('base64')%>" alt="" style="width:100%"/>
+
+    </div>
+
+    <% } %>
+  
+    
+  
+    <!-- Next and previous buttons -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  </div>
+  <br>
+  
+  <!-- The dots/circles -->
+  <div style="text-align:center">
+
+    <% for(var i=0; i < farmer.ecropdata[k].img.length; i++) { %> 
+    <span class="dot" <%= onclick="currentSlide(i)"%></span></span>
+
+
+    <% } %>
+  </div>
+        </div>
+    </section>
+
+    <script src="js/showpage.js"></script>
+</body>
+</html>
